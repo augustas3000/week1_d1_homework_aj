@@ -2,3 +2,4 @@ Start of editing. Still not in gitignore file.
 On this line, this file will be included in gitignore.
 This line was edited after this file was put into gitignore.
 gg
+nnn
