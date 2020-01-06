@@ -1,1 +1,2 @@
 Start of editing. Still not in gitignore file.
+On this line, this file will be included in gitignore.
